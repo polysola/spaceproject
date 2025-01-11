@@ -8,7 +8,7 @@ import Footer from "@/components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Space Metaverse",
+  title: "XRP Space Metaverse",
   description: "Enter the next generation of space gaming",
 };
 

@@ -16,19 +16,19 @@ const SkillText = () => {
         className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
       >
         <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
-        <h1 className="Welcome-text text-[13px]">Advanced Gaming Technology</h1>
+        <h1 className="Welcome-text text-[13px]">Metaverse Features</h1>
       </motion.div>
       <motion.div
         variants={slideInFromLeft(0.5)}
         className="text-[30px] text-white font-medium mt-[10px] text-center mb-[15px]"
       >
-        Next Generation Space Gaming Experience
+        Revolutionary Gaming Experience
       </motion.div>
       <motion.div
         variants={slideInFromRight(0.5)}
         className="cursive text-[20px] text-gray-200 mb-10 mt-[10px] text-center"
       >
-        Never miss a task, deadline or idea
+        Explore infinite possibilities in our virtual universe
       </motion.div>
     </div>
   );
