@@ -8,13 +8,13 @@ const Projects = () => {
       id="projects"
     >
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-        My Projects
+        Featured Games
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
           src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Space Exploration RPG"
+          description="Explore vast procedurally generated galaxies in this immersive space RPG. Trade, fight and build your way through an epic sci-fi adventure."
         />
         <ProjectCard
           src="/CardImage.png"
