@@ -39,12 +39,12 @@ export const Socials = [
   {
     name: "Telegram",
     icon: FaTelegramPlane,
-    link: "https://t.me"
+    link: "https://t.me/XRPSpaceMetaverse_Portal"
   },
   {
     name: "X",
     icon: FaXTwitter,
-    link: "https://x.com"
+    link: "https://x.com/XRPSpace_real"
   },
   {
     name: "Trade",
